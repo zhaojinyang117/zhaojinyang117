@@ -1,6 +1,6 @@
 # HI THERE 👋
 
-#<img src="index.jpg" alt="artist:hamiro" width="300" align="right">
+<img src="index.jpg" alt="artist:hamiro" width="300" align="right">
 
 <a href="https://github.com/zhaojinyang117">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaojinyang117&theme=radical" alt="Commit 折线图" />
